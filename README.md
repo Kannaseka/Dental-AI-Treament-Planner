@@ -110,7 +110,7 @@ RAG-powered retrieval from:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ibritz/dental-ai-treatment-planner.git
+git clone https://github.com/Kannaseka/Dental-AI-Treament-Planner.git
 cd dental-ai-treatment-planner
 
 # Create virtual environment
