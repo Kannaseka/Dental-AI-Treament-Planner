@@ -3,7 +3,7 @@ Dental RAG Module
 ==================
 Retrieval-Augmented Generation for dental clinical guidelines and treatment planning.
 
-Based on: Medical-RAG-LLM (AquibPy) - Enhanced for dental domain
+Based on: Medical-RAG-LLM - Enhanced for dental domain
 """
 
 import os
