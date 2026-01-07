@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "dental-ai": {
+      "command": "python",
+      "args": ["-m", "src.mcp_server.server"],
+      "cwd": "/path/to/dental-ai-treatment-planner",
+      "env": {
+        "DENTAL_MODEL_PATH": "/path/to/dental_yolo.pt",
+        "CONFIDENCE_THRESHOLD": "0.25"
+      }
+    }
+  }
+}
