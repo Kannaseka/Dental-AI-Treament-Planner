@@ -356,10 +356,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Kannan**
-- 🌐 [iBritz.co.uk](https://ibritz.co.uk)
-- 💼 Web Developer & AI Engineer @ ROZE BioHealth
-- 📍 Dubai, UAE
+# Kannan Sekar
+
+**AI/ML Engineer | Computer Vision & LLM Applications**
+
+Building production AI systems for healthcare and e-commerce. 15+ years of software engineering experience with a focus on deploying scalable AI solutions.
+
+📍 Dubai, UAE | Open to remote opportunities  
+🔗 [LinkedIn](https://linkedin.com/in/kannansekar) | [Email](mailto:kannasekarr@gmail.com)
 
 ---
 
