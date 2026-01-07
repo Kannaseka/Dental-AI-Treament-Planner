@@ -10,7 +10,7 @@ readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
 authors = [
-    { name = "Kannan", email = "kannan@ibritz.co.uk" }
+    { name = "Kannan Sekar", email = "kannasekarr@gmail.com" }
 ]
 keywords = [
     "dental-ai",
@@ -84,9 +84,9 @@ dental-ai = "src.cli:app"
 dental-mcp = "src.mcp_server.server:main"
 
 [project.urls]
-Homepage = "https://github.com/ibritz/dental-ai-treatment-planner"
-Documentation = "https://github.com/ibritz/dental-ai-treatment-planner#readme"
-Repository = "https://github.com/ibritz/dental-ai-treatment-planner"
+Homepage = "https://github.com/Kannaseka/dental-ai-treatment-planner"
+Documentation = "https://github.com/Kannaseka/dental-ai-treatment-planner#readme"
+Repository = "https://github.com/Kannaseka/dental-ai-treatment-planner"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src"]
